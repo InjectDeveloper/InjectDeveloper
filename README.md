@@ -2,16 +2,23 @@
 
 <hr>
 
-### Languages and tools:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=injectDeveloper&theme=tokyonight)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
-![NestJs](https://img.shields.io/badge/-nestJS-323330?style=for-the-badge&logo=nestjs)
-![mongodb](https://img.shields.io/badge/-mongodb-323330?style=for-the-badge&logo=mongodb)
-![postgreSQL](https://img.shields.io/badge/-postgreSQL-323330?style=for-the-badge&logo=postgreSQL)
+### Languages and tools:
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=injectDeveloper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1e1f2d?style=for-the-badge&logo=typescript)
+![NestJs](https://img.shields.io/badge/-nestJS-1e1f2d?style=for-the-badge&logo=nestjs)
+![mongodb](https://img.shields.io/badge/-mongodb-1e1f2d?style=for-the-badge&logo=mongodb)
+![postgreSQL](https://img.shields.io/badge/-postgreSQL-1e1f2d?style=for-the-badge&logo=postgreSQL)
+
+### Statistics
+
+<hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=injectDeveloper&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=injectDeveloper&theme=tokyonight)
 
 <hr>
 
