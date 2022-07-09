@@ -17,7 +17,7 @@
 
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=injectDeveloper&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=injectDeveloper&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=injectDeveloper&theme=tokyonight)
 <hr>
 
