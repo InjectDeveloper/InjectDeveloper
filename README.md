@@ -18,8 +18,7 @@
 <hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=injectDeveloper&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=injectDeveloper&theme=tokyonight)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=injectDeveloper&theme=tokyonight)
 <hr>
 
 ### Contact me in Gmail: inject.dev@gmail.com or by using Telegram: [@injectDev](https://t.me/injectDev)
