@@ -10,7 +10,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e1f2d?style=for-the-badge&logo=typescript)
 ![NestJs](https://img.shields.io/badge/-nestJS-1e1f2d?style=for-the-badge&logo=nestjs)
-![Angular](https://img.shields.io/badge/-angular-1e1f2d?style=for-the-badge&logo=Angular)
+![ReactJs](https://img.shields.io/badge/-React-1e1f2d?style=for-the-badge&logo=ReactJs)
 ![mongodb](https://img.shields.io/badge/-mongodb-1e1f2d?style=for-the-badge&logo=mongodb)
 ![postgreSQL](https://img.shields.io/badge/-postgreSQL-1e1f2d?style=for-the-badge&logo=postgreSQL)
 
