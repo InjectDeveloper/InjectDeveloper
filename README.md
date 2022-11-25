@@ -22,4 +22,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=injectDeveloper&theme=tokyonight)
 <hr>
 
-### Contact me in Gmail: inject.dev@gmail.com or by using Telegram: [@injectDev](https://t.me/injectDev)
+### Contact me in Gmail: inject.dev@gmail.com or by using Telegram: [@inject_dev](https://t.me/inject_dev)
