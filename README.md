@@ -1,4 +1,4 @@
-### Hi, i'm a middle fullstack developer!
+### Hi, i'm a junior/middle fullstack developer!
 
 <hr>
 
